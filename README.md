@@ -1,1 +1,1 @@
-"# syncSQLiteToMySQL" 
+# syncSQLiteToMySQL
